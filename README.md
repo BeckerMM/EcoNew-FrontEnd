@@ -1,9 +1,9 @@
-# EcoNew-FrontEnd
-todo:
+# EcoNew-FrontEnd Todo List
 
-Pages:
-[]Login
-[]Register User
-[]Create Goal
-[]Create Expense
-[]View Goal
+## Pages to Implement
+
+- [ ] Login
+- [ ] Register User
+- [ ] Create Goal
+- [ ] Create Expense
+- [ ] View Goal
